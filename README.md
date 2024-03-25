@@ -1,6 +1,6 @@
 # KRaft mode Kafka on Kubernetes
 
-Resources for a tutorial that covers running KRaft mode Kafka v2.8 on a Minikube-based Kubernetes cluster.
+Resources for a tutorial that covers running KRaft mode Kafka v3.7.0 on a Minikube-based Kubernetes cluster.
 
 ## Tutorial
 
